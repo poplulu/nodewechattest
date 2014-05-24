@@ -5,7 +5,7 @@ app.set('port', (process.env.PORT || 5000))
 app.use(express.static(__dirname + '/public'))
 
 app.get('/', function(request, response) {
-  response.send('微信公众平台 测试!')
+  response.send('Hello World!')
 })
 
 app.listen(app.get('port'), function() {
