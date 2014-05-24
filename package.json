@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "wechat": "~0.6.7",
     "logfmt": "~1.1.2",
@@ -25,7 +28,4 @@
     "url": "https://github.com/poplulu/nodewechattest/issues"
   },
   "homepage": "https://github.com/poplulu/nodewechattest",
-  "engines": {
-    "node": "0.10.x"
-  }
 }
