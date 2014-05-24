@@ -7,7 +7,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.0.0"
+    "express": "^4.0.0",
+    "wechat": "~0.6.7"
   },
   "devDependencies": {},
   "engines": {
