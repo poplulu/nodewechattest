@@ -1,0 +1,31 @@
+{
+  "name": "nodewechattest",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "wechat": "~0.6.7",
+    "logfmt": "~1.1.2",
+    "express": "~4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/poplulu/nodewechattest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Manny Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poplulu/nodewechattest/issues"
+  },
+  "homepage": "https://github.com/poplulu/nodewechattest",
+  "engines": {
+    "node": "0.10.x"
+  }
+}
